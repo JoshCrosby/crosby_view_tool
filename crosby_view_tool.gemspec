@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{First RubyGem to display copyright and name}
   spec.description   = %q{This is nothing fancy, just a gem to display current year for copyright and name}
-  spec.homepage      = "https://github.com/JoshCrosby"
+  spec.homepage      = "https://github.com/JoshCrosby/crosby_view_tool"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
