@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+    CrosbyViewTool::Renderer.copyright 'Josh Crosby', 'All rights reserved'
+```
 
 ## Development
 
